@@ -2,7 +2,7 @@
 ****
 It's work stable on Ventura(13). adequate for daily usage.
 
-Anyway, don’t forget to edit file `EFI/OC/config.plist`, you should generate your own (SMBIOS)[https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html] info.
+Anyway, don’t forget to edit file `EFI/OC/config.plist`, you should generate your own [SMBIOS](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html) info.
 
 ## Hardware
 ****
