@@ -1,5 +1,4 @@
 # Hackintosh-Z490H-10900KF-6650XT
-****
 It's work stable on Ventura(13). adequate for daily usage.
 
 Anyway, don’t forget to edit file `EFI/OC/config.plist`, you should generate your own [SMBIOS](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html) info.
@@ -7,7 +6,6 @@ Anyway, don’t forget to edit file `EFI/OC/config.plist`, you should generate y
 ![Using](https://github.com/LTHS20/Hackintosh-ROG-Z490H-10900KF-6650XT/blob/master/Images/Screenshot%202023-04-07%20at%2019.31.57.png)
 
 ## Hardware
-****
 * Motherboard: ASUS ROG STRIX Z490H
     * Ethernet: Intel I225-V 2.5Gbit
     * Audio: SupremeFX S1220A CODEC (Realtek ALCS1220A)
@@ -22,12 +20,10 @@ Anyway, don’t forget to edit file `EFI/OC/config.plist`, you should generate y
 * Wi-Fi/BT: DW1560_DELL
 
 ## Software
-****
 * OpenCore: 0.9.1-RELEASE
 * MacOS: Ventura(13) latest
 
 ## Working
-****
 * [x] AMD Radeon RX 6650XT (dGPU)
 * [x] Audio Realtek ALCS1220A
 * [x] Intel I225-V 2.5Gb Ethernet
@@ -38,7 +34,6 @@ Anyway, don’t forget to edit file `EFI/OC/config.plist`, you should generate y
 * [x] Power Management (Native support)
 
 ## Custom
-****
 
 ### SMBIOS
 ```xml
@@ -87,6 +82,5 @@ OS type choose `Other` type
 Clear Secure Boot Keys
 
 ## Referenced from
-****
 * https://github.com/douglas85rj/Hackintosh---ASUS-Z490H_intel-i910900_RX6800-
 * https://github.com/tiomars/Hackintosh-ROG-STRIX-Z490I
