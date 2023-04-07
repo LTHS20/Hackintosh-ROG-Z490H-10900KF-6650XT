@@ -78,8 +78,8 @@ You need to generate with `iMacPro1,1` and fill in the `MLB`, `SystemSerialNumbe
 * Hyper-Threading
 * EHCI/XHCI Hand-off
 
-OS type choose `Other` type
-Clear Secure Boot Keys
+#### Options
+OS type: `Other`
 
 ## Referenced from
 * https://github.com/douglas85rj/Hackintosh---ASUS-Z490H_intel-i910900_RX6800-
