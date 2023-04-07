@@ -4,6 +4,8 @@ It's work stable on Ventura(13). adequate for daily usage.
 
 Anyway, don’t forget to edit file `EFI/OC/config.plist`, you should generate your own [SMBIOS](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html) info.
 
+![Using](https://github.com/LTHS20/Hackintosh-ROG-Z490H-10900KF-6650XT/blob/master/Images/Screenshot%202023-04-07%20at%2019.31.57.png)
+
 ## Hardware
 ****
 * Motherboard: ASUS ROG STRIX Z490H
